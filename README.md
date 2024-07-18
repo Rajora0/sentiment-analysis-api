@@ -7,6 +7,13 @@ This repository contains a simple Flask API that performs sentiment analysis on 
 - **`app.py`:** Main Flask application file. Defines the API endpoint and handles requests.
 - **`models/sentiment_model.py`:** Handles model loading, quantization, and inference.
 
+```
+└── 📁 models
+    └── 📄 sentiment_model.py
+📄 app.py
+📄 requirements.txt 
+```
+
 ### Setup and Usage
 
 1. **Install dependencies:**
